@@ -35,4 +35,4 @@ Research proposal stage — code in progress.
 MIT
 
 ## Citation
-[Your name]. (2026). FocalBoost-IDS [Source code]. GitHub.
+Samuel Yankey. (2026). FocalBoost-IDS [Source code]. GitHub.
